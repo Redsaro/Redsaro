@@ -2,7 +2,6 @@
 I'm Saravanan, a CS major in my second year.
 
 About me:
-
 I’m currently in my learning phase , trying out new languages,domains,etc.
 
 Give me a follow and support me in my learning journey 😄.
