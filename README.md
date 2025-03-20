@@ -9,7 +9,9 @@ Give me a follow and support me in my learning journey 😄.
 
 ## Fun Facts:
 • I listen to rap and indie songs.
+
 • I read a lot of manga and novels.
+
 • I'm a huge gamer who loves both competitive and story-based games.
 
 ## #30NitesOfCode:
