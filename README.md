@@ -14,8 +14,6 @@ Give me a follow and support me in my learning journey 😄.
 
 • I'm a huge gamer who loves both competitive and story-based games.
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Redsaro/30-nites-of-code)  
   ![@Redsaro #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Redsaro)
 
 <!--
