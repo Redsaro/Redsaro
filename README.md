@@ -14,7 +14,6 @@ Give me a follow and support me in my learning journey 😄.
 
 • I'm a huge gamer who loves both competitive and story-based games.
 
-  ![@Redsaro #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Redsaro)
 
 <!--
 **Redsaro/Redsaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
