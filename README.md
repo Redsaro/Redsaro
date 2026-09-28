@@ -1,5 +1,5 @@
 ## Hey 👋
-I'm Saravanan, a CS major in my third year.
+I'm Saravanan, a CS major.
 
 ## About me:
 
